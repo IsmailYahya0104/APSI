@@ -18,7 +18,6 @@
   - Diagram use case.
   - Menunjukkan aktor yang berinteraksi dengan sistem dan fungsi-fungsi utama yang disediakan sistem.
 
-## Catatan
 
-Semua gambar berada di folder `docs`. Jika ingin menampilkan gambar langsung di `README.md`, gunakan tag Markdown seperti:
+
 
