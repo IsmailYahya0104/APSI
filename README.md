@@ -22,9 +22,3 @@
 
 Semua gambar berada di folder `docs`. Jika ingin menampilkan gambar langsung di `README.md`, gunakan tag Markdown seperti:
 
-```markdown
-![BPMN](docs/BPMN.png)
-![ERD](docs/ERD.png)
-![Activity Diagram](docs/Activity Diagram.png)
-![Use Case Diagram](docs/Use Case Diagram.png)
-```
